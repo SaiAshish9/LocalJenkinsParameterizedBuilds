@@ -6,6 +6,6 @@
 
 <img width="1005" alt="Screenshot 2023-02-01 at 12 27 53 AM" src="https://user-images.githubusercontent.com/43849911/215856296-0af58ab1-7623-455a-a6d2-50ad9cb1cd9c.png">
 
-<img width="1100" alt="Screenshot 2023-02-01 at 12 29 14 AM" src="https://user-images.githubusercontent.com/43849911/215856637-23ae5d93-8832-4235-ac17-aa0f6bfbc7b9.png">
+<img width="1546" alt="Screenshot 2023-02-01 at 12 37 02 AM" src="https://user-images.githubusercontent.com/43849911/215858023-07893df0-9186-43b0-9a06-9ffeabf623fc.png">
 
 <img width="1187" alt="Screenshot 2023-02-01 at 12 35 44 AM" src="https://user-images.githubusercontent.com/43849911/215857880-393dd959-f1f4-45a8-8761-d0ed571533cb.png">

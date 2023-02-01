@@ -13,3 +13,9 @@
 http://localhost:8080/safeRestart
 
 https://plugins.jenkins.io/multiselect-parameter/
+
+https://plugins.jenkins.io/uno-choice/
+
+return ['Option 1', 'Option 2', 'Option 3']
+
+Type CheckBoxes

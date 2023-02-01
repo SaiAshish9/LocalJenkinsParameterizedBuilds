@@ -9,3 +9,7 @@
 <img width="1612" alt="Screenshot 2023-02-01 at 12 43 17 AM" src="https://user-images.githubusercontent.com/43849911/215859734-0717dcab-78fd-44bd-9bf3-76b101be5fd8.png">
 
 <img width="1461" alt="Screenshot 2023-02-01 at 12 42 52 AM" src="https://user-images.githubusercontent.com/43849911/215859645-ed7390ba-8bb4-4591-acbc-c8999eec3083.png">
+
+http://localhost:8080/safeRestart
+
+https://plugins.jenkins.io/multiselect-parameter/

@@ -20,9 +20,11 @@ return ['Option 1', 'Option 2', 'Option 3']
 
 Type CheckBoxes
 
-Start Jenkins service: brew services start jenkins-lts
-Stop Jenkins service: brew services stop jenkins-lts
-Restart Jenkins service: brew services restart jenkins-lts
+Start Jenkins service: sudo brew services start jenkins-lts
+
+Stop Jenkins service: sudo brew services stop jenkins-lts
+
+Restart Jenkins service: sudo brew services restart jenkins-lts
 
 http://localhost:8080/exit
 http://localhost:8080/restart

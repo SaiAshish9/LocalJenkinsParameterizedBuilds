@@ -29,3 +29,5 @@ Restart Jenkins service: sudo brew services restart jenkins-lts
 http://localhost:8080/exit
 http://localhost:8080/restart
 http://localhost:8080/reload
+
+https://stackoverflow.com/questions/69488397/jenkins-home-path-changes-by-itself-after-restarting-macos-how-do-i-setup-jenki

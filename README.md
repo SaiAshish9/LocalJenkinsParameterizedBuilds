@@ -15,7 +15,7 @@ http://localhost:8080/safeRestart
 https://plugins.jenkins.io/multiselect-parameter/
 
 https://plugins.jenkins.io/uno-choice/
-
+https://www.jenkins.io/doc/pipeline/steps/build-user-vars-plugin/
 return ['Option 1', 'Option 2', 'Option 3']
 
 Type CheckBoxes
@@ -29,5 +29,6 @@ Restart Jenkins service: sudo brew services restart jenkins-lts
 http://localhost:8080/exit
 http://localhost:8080/restart
 http://localhost:8080/reload
+https://www.jenkins.io/doc/pipeline/steps/build-user-vars-plugin/
 
 https://stackoverflow.com/questions/69488397/jenkins-home-path-changes-by-itself-after-restarting-macos-how-do-i-setup-jenki
